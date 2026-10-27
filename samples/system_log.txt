@@ -1,0 +1,4 @@
+[SYNTHETIC FICTION - not a real system log]
+2026-10-13T03:17:00Z archive: deletion completed; remaining files=0
+2026-10-13T03:17:01Z archive: one visitor is still reading
+2026-10-13T03:17:02Z archive: visitor timestamp precedes building construction

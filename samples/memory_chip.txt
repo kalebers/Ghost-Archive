@@ -1,0 +1,4 @@
+[SYNTHETIC FICTION - an invented memory restoration record]
+RESTORE subject=fictional-echo progress=99%
+The customer remembers a room that has not been built.
+The backup asks who will remember the original.
